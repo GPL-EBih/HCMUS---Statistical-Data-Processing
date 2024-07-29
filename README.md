@@ -2,7 +2,7 @@
 
 Team K:
 
-| Fullname    | Id student |
+| Fullname    | ID student |
 |---------------------|-----------------|
 |Lâm Gia Phú |21280104|
 | Trần Ngọc Khánh Như | 21280040|
