@@ -1,6 +1,15 @@
 # HCMUS---Statistical-Data-Processing
 
-# README
+Team K:
+
+| Fullname    | Id student |
+|---------------------|-----------------|
+|Lâm Gia Phú |21280104|
+| Trần Ngọc Khánh Như | 21280040|
+| Trần Minh Hiển | 21280016|
+| Nguyễn Đăng Khôi| 21280023|
+
+
 
 ## Seoul Bike Sharing Demand Prediction
 
